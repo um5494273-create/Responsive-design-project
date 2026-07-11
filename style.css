@@ -473,6 +473,9 @@ main{
     height: auto;
     display: block;
 }
+.product3 img{
+    padding-bottom: 10px;
+}
 
 .banner{
   display: grid;
