@@ -5,7 +5,7 @@ This project is designed to recreate the clean and minimal look of Apple's produ
 
 ## 🌐 Live Demo
 
-🔗 [View Live Website](https://um5494273-create.github.io/)
+🔗 [View Live Website](https://um5494273-create.github.io/Responsive-design-project/)
 
 ## 📸 Preview
 
