@@ -7,10 +7,6 @@ This project is designed to recreate the clean and minimal look of Apple's produ
 
 🔗 [View Live Website](https://um5494273-create.github.io/Responsive-design-project/)
 
-## 📸 Preview
-
-![Apple Website Preview](screenshot.png)
-
 ## 🚀 Features
 
 - Clean and modern Apple-inspired UI
